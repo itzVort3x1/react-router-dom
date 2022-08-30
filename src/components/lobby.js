@@ -3,7 +3,7 @@ import React from 'react';
 const LobbyPage = () => {
      return (
           <div>
-               <h1>Dashboard</h1>
+               <h1>Lobby</h1>
           </div>
      );
 };
